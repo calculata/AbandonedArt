@@ -12,16 +12,16 @@ Added only files where sourcecode is available and no dependencies to unknown th
 
 Original List of Generative Art Pieces:
 
-100: Butterfly Noise Two 
-99: Meol 
-98: Kirby
-97: Wormcast
-96: Constellation
-95: Opiamas
-94: Trangelo
-93: Cloth Man
-92: Folding Man
-91: Memo
+- 100: Butterfly Noise Two 
+- 99: Meol 
+- 98: Kirby
+- 97: Wormcast
+- 96: Constellation
+- 95: Opiamas
+- 94: Trangelo
+- 93: Cloth Man
+- 92: Folding Man
+- 91: Memo
 90: Heliosphere
 89: Brushed Metal
 88: Watz
